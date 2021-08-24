@@ -1,6 +1,6 @@
 # searchable_list
 
-A new Flutter project.
+A new Flutter Searchable List Project.
 
 ## Getting Started
 
